@@ -1,5 +1,5 @@
 # HandWritingOCR
-HandWritingOCR by using paddleocr and Sorting Box from Row direction
+HandWritingOCR by using paddleocr and Sorting Box by Row direction
 
 DEMO:
 ![image](https://user-images.githubusercontent.com/9477727/190846715-8479dee2-0f8b-41eb-87a8-f96b543bc4fc.png)
